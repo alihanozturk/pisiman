@@ -541,8 +541,8 @@ def install_desktop(project):
        
        #KDE KURULAN AYAR
     
-    run("cp -rf %s/live/kde/etc/* %s/etc/" % (configdir,desktop_image_dir))
-    run("cp -rf %s/live/kde/autostart %s/etc/skel/.config/" % (configdir,desktop_image_dir))
+    run("cp -rf %s/default-settings/etc/* %s/etc/" % (configdir,desktop_image_dir))
+    run("cp -rf %s/default-settings/autostart %s/etc/skel/.config/" % (configdir,desktop_image_dir))
     
 
 
