@@ -24,6 +24,7 @@
         <SelectedPackage>glibc-locales-pt</SelectedPackage>
         <SelectedPackage>glibc-locales-ru</SelectedPackage>
         <SelectedPackage>glibc-locales-sv</SelectedPackage>
+        <SelectedPackage>kde-l10n-tr</SelectedPackage>
         <SelectedPackage>kernel</SelectedPackage>
         <SelectedPackage>memtest86</SelectedPackage>
         <SelectedPackage>mkinitcpio</SelectedPackage>
